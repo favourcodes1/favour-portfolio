@@ -91,7 +91,7 @@ export default function Navbar() {
         <div className="flex items-center gap-5 text-lg">
 
           <a
-            href="https://linkedin.com/in/YOUR-LINKEDIN"
+            href="https://linkedin.com/in/favourogubuike"
             target="_blank"
             className="hover:text-primary transition"
           >
@@ -99,7 +99,7 @@ export default function Navbar() {
           </a>
 
           <a
-            href="https://github.com/YOUR-GITHUB"
+            href="https://github.com/favourcodes1"
             target="_blank"
             className="hover:text-primary transition"
           >
@@ -107,7 +107,7 @@ export default function Navbar() {
           </a>
 
           <a
-            href="mailto:YOUR-EMAIL"
+            href="mailto:favourcodes@gmail.com"
             className="hover:text-primary transition"
           >
             <FaEnvelope />
