@@ -16,7 +16,7 @@ const educationData = [
     desc: "Studied programming fundamentals, databases, networking, and system design."
   },
   {
-    school: "International School Hague (ISH)",
+    school: "International School of Hague (ISH)",
     country: "Den Haag, Netherlands",
     period: "08/01/2017 – 07/31/2021",
     title: "High School Diploma - IB Diploma",
