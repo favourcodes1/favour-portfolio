@@ -4,7 +4,7 @@ const educationData = [
   {
     school: "University of Europe of Applied Sciences",
     country: "Potsdam, Germany",
-    period: "09/01/2023 – 30/09/2026",
+    period: "09/01/2023 – 08/31/2026",
     title: "Software Engineering - B.Sc",
     desc: "Focused on software architecture, cloud computing, AI systems, and full-stack application development."
   },
